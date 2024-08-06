@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "EcoSenda",
+    "category": "Agroecología/Orgánicos/ Alimentación saludable",
+    "subcategory": "Finca Agroecológica",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img0": "/microemprendimiento1.webp",
+    "img1": "/microemprendimiento2.webp",
+    "img2": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 2,
+    "title": "Comida Sana",
+    "category": "Agroecología/Orgánicos/ Alimentación saludable",
+    "subcategory": "Finca Alimentaria",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img1": "/microemprendimiento1.webp",
+    "img0": "/microemprendimiento2.webp",
+    "img2": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 3,
+    "title": "Dinero Verde",
+    "category": "Economía social/Desarrollo local/Inclusión financiera",
+    "subcategory": "Economia y Finanzas",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img2": "/microemprendimiento1.webp",
+    "img1": "/microemprendimiento2.webp",
+    "img0": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 4,
+    "title": "Luz Brillante",
+    "category": "Conservación/Regeneración/ Servicios ecosistémicos",
+    "subcategory": "Servicios Básicos",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img0": "/microemprendimiento1.webp",
+    "img1": "/microemprendimiento2.webp",
+    "img2": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 5,
+    "title": "Refrigerio Sano",
+    "category": "Conservación/Regeneración/ Servicios ecosistémicos",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img1": "/microemprendimiento1.webp",
+    "img0": "/microemprendimiento2.webp",
+    "img2": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 6,
+    "title": "EcoSur",
+    "category": "Conservación/Regeneración/ Servicios ecosistémicos",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img2": "/microemprendimiento1.webp",
+    "img1": "/microemprendimiento2.webp",
+    "img0": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  },
+  {
+    "id": 7,
+    "title": "FaceVerde",
+    "category": "Empresas/Organismos de impacto/ Economía circular",
+    "subcategory": "Emprendimiento Social y Sustentable",
+    "ubication": "Tunuyán, Mendoza, Argentina",
+    "img1": "/microemprendimiento1.webp",
+    "img0": "/microemprendimiento2.webp",
+    "img2": "/microemprendimiento3.webp",
+    "description": "Promueven un modelo de agricultura sostenible, protegiendo el medio ambiente, el agua y las semillas autóctonas. Cultivan frutas, verduras, plantas medicinales y crean derivados. Editan también contenidos educativos, gestionan un banco de semillas y comercializan o intercambian excedentes.",
+    "moreinfo": "Nació del sueño de restaurar la salud y adoptar un estilo de vida ideal. Este proyecto familiar creció fundamentado en la permacultura, biodinámica y agroecología, comprometiéndose con la soberanía alimentaria, el bienestar, el regreso al campo, la venta directa y la dignidad de la vida campesina."
+  }
+]
